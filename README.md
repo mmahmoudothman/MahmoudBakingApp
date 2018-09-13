@@ -1,5 +1,5 @@
 ## MahmoudBakingApp
-Your task is to create a Android Baking App that will allow Udacity’s resident baker-in-chief, Miriam, to share her recipes with the world. You will create an app that will allow a user to select a recipe and see video-guided steps for how to complete it.
+MahmoudBakingApp App that will allow Udacity’s resident baker-in-chief, Miriam, to share her recipes with the world. and  will allow a user to select a recipe and see video-guided steps for how to complete it.
 
 The recipe listing is located [here](https://d17h27t6h515a5.cloudfront.net/topher/2017/May/59121517_baking/baking.json)
 
@@ -16,11 +16,7 @@ Clone the GitHub repository.
 You will productionize an app, taking it from a functional state to a production-ready state. This will involve finding and handling error cases, adding accessibility features, allowing for localization, adding a widget, and adding a library.
 [Rubric](https://review.udacity.com/#!/rubrics/829/view) 
 
-## Why this project?
-
-As a working Android developer, you often have to create and implement apps where you are responsible for designing and planning the steps you need to take to create a production-ready app. Unlike Popular Movies where we gave you an implementation guide, it will be up to you to figure things out for the Baking App.
-
-## What will I Learn
+## Features
 
 In this project you will:
 
@@ -34,7 +30,7 @@ Use MediaPlayer/Exoplayer to
 
 ## License
 	
-	Copyright [2017] [MahmoudOthman]
+	Copyright 2017 MahmoudOthman
 	
 	Licensed under the Apache License, Version 2.0 (the "License");
 	you may not use this file except in compliance with the License.
