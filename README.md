@@ -1,5 +1,5 @@
 ## MahmoudBakingApp
-MahmoudBakingApp App that will allow Udacity’s resident baker-in-chief, Miriam, to share her recipes with the world. and  will allow a user to select a recipe and see video-guided steps for how to complete it.
+MahmoudBakingApp is an App that allow Udacity’s resident baker-in-chief, Miriam, to share her recipes with the world. and allow a user to select a recipe and see video-guided steps for how to complete it.
 
 The recipe listing is located [here](https://d17h27t6h515a5.cloudfront.net/topher/2017/May/59121517_baking/baking.json)
 
@@ -13,8 +13,7 @@ Clone the GitHub repository.
     $ git clone https://github.com/mmahmoudothman/MahmoudBakingApp.git
     
 ## Project Overview
-You will productionize an app, taking it from a functional state to a production-ready state. This will involve finding and handling error cases, adding accessibility features, allowing for localization, adding a widget, and adding a library.
-[Rubric](https://review.udacity.com/#!/rubrics/829/view) 
+ [Rubric](https://review.udacity.com/#!/rubrics/829/view) 
 
 ## Features
 
@@ -26,6 +25,7 @@ Use MediaPlayer/Exoplayer to
 * Add a widget to your app experience.
 * Leverage a third-party library in your app.
 * Use Fragments to create a responsive design that works on phones and tablets.
+* widget
 
 
 ## License
